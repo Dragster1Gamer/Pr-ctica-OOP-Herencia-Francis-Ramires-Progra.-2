@@ -1,0 +1,14 @@
+C:\Users\wande\source\repos\Tarea1P1\bin\Debug\net8.0\Tarea1P1.exe
+C:\Users\wande\source\repos\Tarea1P1\bin\Debug\net8.0\Tarea1P1.deps.json
+C:\Users\wande\source\repos\Tarea1P1\bin\Debug\net8.0\Tarea1P1.runtimeconfig.json
+C:\Users\wande\source\repos\Tarea1P1\bin\Debug\net8.0\Tarea1P1.dll
+C:\Users\wande\source\repos\Tarea1P1\bin\Debug\net8.0\Tarea1P1.pdb
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\Tarea1P1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\Tarea1P1.AssemblyInfoInputs.cache
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\Tarea1P1.AssemblyInfo.cs
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\Tarea1P1.csproj.CoreCompileInputs.cache
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\Tarea1P1.dll
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\refint\Tarea1P1.dll
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\Tarea1P1.pdb
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\Tarea1P1.genruntimeconfig.cache
+C:\Users\wande\source\repos\Tarea1P1\obj\Debug\net8.0\ref\Tarea1P1.dll
